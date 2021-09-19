@@ -23,15 +23,15 @@
 
 * **rm kalifs-arm64-full.tar.st , rm kalifs-arm64-full.tar.xz.0 and rm kalifs-arm64-full.tar.xz.1**
 
-* Now re Run the installer by typing **./install-nethunter-termux** ,it will say **"Existing rootfs found,delete and download new one (Y/n)?", type n and click enter.**
+> Now re Run the installer by typing **./install-nethunter-termux** ,it will say **"Existing rootfs found,delete and download new one (Y/n)?", type n and click enter.**
 
-* It will show "extracting rootfs file",that means Kali-Nethunter is being installed.
+> It will show "extracting rootfs file",that means Kali-Nethunter is being installed.
 
 > This will take from 10to 20min,so make sure you have enough battery in your phone.
 
-> The **KALI** image you will see at front ,thats it.
+* The **KALI** image you will see at front ,thats it.
 
-> Now you can goto the kali web_site link :- https://www.kali.org/docs/nethunter/nethunter-rootless/ to see how to start the nethunter etc.
+> Now you can goto the kali web_site link :- https://www.kali.org/docs/nethunter/nethunter-rootless to see how to start the nethunter etc.
 
-* To access the GUI version,you need Nethunter Kex app, download it from Nethunter-App store from store.nethunter.com
+> **To access the GUI version, download it from Nethunter-App store from https://store.nethunter.com**
 
