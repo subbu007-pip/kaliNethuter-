@@ -17,13 +17,13 @@
 **once the installations is over:**
 * Enter the **ls** command in your termux
 
->if you see the  kalifs-arm64-full.tar.xz ,kali-arm and install-nethunter-termux  and storage 
+>the file you should see: kalifs-arm64-full.tar.xz ,kali-arm and install-nethunter-termux  and storage 
 
 * **if you see kalifs-arm64-full.tar.st and kalifs-arm64-full.tar.xz.0 ,kalifs-arm64-full.tar.xz.1 remove these file**
 
-* **rm kalifs-arm64-full.tar.st , rm kalifs-arm64-full.tar.xz.0 and rm kalifs-arm64-full.tar.xz.1**
+* Enter **rm kalifs-arm64-full.tar.st ,rm kalifs-arm64-full.tar.xz.0 and  rm  kalifs-arm64-full.tar.xz.1**
 
-> Now re Run the installer by typing **./install-nethunter-termux** ,it will say **"Existing rootfs found,delete and download new one (Y/n)?", type n and click enter.**
+> Now re run installer by typing **./install-nethunter-termux** ,it will say **"Existing rootfs found,delete and download new one (Y/n)?", type n and click enter.**
 
 > It will show "extracting rootfs file",that means Kali-Nethunter is being installed.
 
