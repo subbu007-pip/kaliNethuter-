@@ -1,5 +1,5 @@
 # kaliNethuter - termux
-## system requirment
+## system requirement
 * Androide device (rootless) 
 * Termux app
 * 8GB storage
